@@ -51,7 +51,7 @@ const App = () => (
           <Container planet="neptune"></Container>
         </Route>
 
-        <Route path="/">
+        <Route path="/react-planets/">
           <MainBody n="earth" />
           <Container planet="earth"></Container>
         </Route>
