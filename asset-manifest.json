@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/react-planets/static/css/main.135d3a43.chunk.css",
-    "main.js": "/react-planets/static/js/main.9dd54b28.chunk.js",
-    "main.js.map": "/react-planets/static/js/main.9dd54b28.chunk.js.map",
+    "main.js": "/react-planets/static/js/main.4df695a8.chunk.js",
+    "main.js.map": "/react-planets/static/js/main.4df695a8.chunk.js.map",
     "runtime-main.js": "/react-planets/static/js/runtime-main.e8068b4b.js",
     "runtime-main.js.map": "/react-planets/static/js/runtime-main.e8068b4b.js.map",
     "static/js/2.2c6f7552.chunk.js": "/react-planets/static/js/2.2c6f7552.chunk.js",
@@ -25,6 +25,6 @@
     "static/js/runtime-main.e8068b4b.js",
     "static/js/2.2c6f7552.chunk.js",
     "static/css/main.135d3a43.chunk.css",
-    "static/js/main.9dd54b28.chunk.js"
+    "static/js/main.4df695a8.chunk.js"
   ]
 }
