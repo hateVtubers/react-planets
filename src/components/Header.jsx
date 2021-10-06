@@ -19,7 +19,7 @@ export const Header = () => {
   const [state, setState] = useState(false);
   return (
     <header className="flex justify-between items-center border-b-2 border-primary h-16">
-      <Link to="/">
+      <Link to="/react-planets/">
         <h1 className="text-2xl ml-8">THE PLANETS</h1>
       </Link>
       <nav className="flex">

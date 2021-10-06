@@ -7,7 +7,7 @@ export const Links = ({ name }) => {
   const res = data.filter((r) => r.name === name)[0];
   return (
     <Link
-      to={`/${name}`}
+      to={`/react-planets/${name}`}
       className="uppercase mr-8 text-xs hover:text-primary"
       onClick={() => {
         getInfo("01", res);
