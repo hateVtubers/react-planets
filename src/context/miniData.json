@@ -1,0 +1,58 @@
+[
+  {
+    "name": "mercury",
+    "rotation time": "58.6 days",
+    "revolution time": "87.97 days",
+    "radius": "3,389.5 km",
+    "average temp": "354°C"
+  },
+  {
+    "name": "venus",
+    "rotation time": "243 days",
+    "revolution time": "224.7 days",
+    "radius": "6,051.8 km",
+    "average temp": "847°C"
+  },
+  {
+    "name": "earth",
+    "rotation time": "0.99 days",
+    "revolution time": "365.26 days",
+    "radius": "6,371 km",
+    "average temp": "15°C"
+  },
+  {
+    "name": "mars",
+    "rotation time": "1.03 days",
+    "revolution time": "1.88 years",
+    "radius": "3,389.5 km",
+    "average temp": "-81°C"
+  },
+  {
+    "name": "jupiter",
+    "rotation time": "0.41 days",
+    "revolution time": "11.86 years",
+    "radius": "69,911 km",
+    "average temp": "-238°C"
+  },
+  {
+    "name": "saturn",
+    "rotation time": "0.45 days",
+    "revolution time": "29.46 years",
+    "radius": "58,232 km",
+    "average temp": "-285°C"
+  },
+  {
+    "name": "uranus",
+    "rotation time": "0.72 days",
+    "revolution time": "84.01 years",
+    "radius": "25,362 km",
+    "average temp": "-353°C"
+  },
+  {
+    "name": "neptune",
+    "rotation time": "0.67 days",
+    "revolution time": "164.79 years",
+    "radius": "24,622 km",
+    "average temp": "-373°C"
+  }
+]

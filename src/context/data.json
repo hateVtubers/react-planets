@@ -1,0 +1,50 @@
+[
+  {
+    "name": "mercury",
+    "data": "Is the smallest planet in the Solar System and the closest to the Sun. Mercury rotates in a way that is unique in the Solar System. It is tidally locked with the Sun in a 3:2 spin–orbit resonance, meaning that relative to the fixed stars, it rotates on its axis exactly three times for every two revolutions it makes around the Sun.",
+    "internal": "Mercury appears to have a solid silicate crust and mantle overlying a solid, iron sulfide outer core layer, a deeper liquid core layer, and a solid inner core. The planet's density is the second highest in the Solar System at 5.427 g/cm3, only slightly less than Earth's density of 5.515 g/cm3",
+    "surface": "Mercury's surface is similar in appearance to that of the Moon, showing extensive mare-like plains and heavy cratering, indicating that it has been geologically inactive for billions of years. It is more heterogeneous than either Mars's or the Moon's, both of which contain significant stretches of similar geology, such as maria and plateaus. Albedo features are areas of markedly different reflectivity, which include impact craters, the resulting ejecta, and ray systems."
+  },
+  {
+    "name": "venus",
+    "data": "Is the second planet from the Sun. Venus is a terrestrial planet and is sometimes called Earth's sister planet because of their similar size, mass, proximity to the Sun, and bulk composition. It is radically different from Earth in other respects. It has the densest atmosphere of the four terrestrial planets, consisting of more than 96% carbon dioxide",
+    "internal": "Without seismic data or knowledge of its moment of inertia, little direct information is available about the internal structure and geochemistry of Venus. The similarity in size and density between Venus and Earth suggests they share a similar internal structure: a core, mantle, and crust. Like that of Earth, the Venusian core is most likely at least partially liquid because the two planets have been cooling at about the same rate, although a completely solid core cannot be ruled out.",
+    "surface": "About 75% of the surface of Venus consists of lowland lava plains. Superficially, these plains resemble the basaltic ocean basins of Earth, but they were not produced in quite the same way. There is no evidence of subduction zones on Venus, indicating that, unlike Earth, this planet never experienced plate tectonics."
+  },
+  {
+    "name": "earth",
+    "data": "Third planet from the Sun and the only known to harbour and support life. About 29.2% of Earth's surface is land consisting of continents and islands. The remaining 70.8% is covered with water. Earth's distance from the Sun, physical properties, and geological history have allowed life to evolve and thrive",
+    "internal": "The Earth is divided into three main layers. The dense, hot inner core (yellow), the molten outer core (orange), the mantle (red), and the thin crust (brown), which supports all life in the known universe. Earth's interior is generally divided into three major layers: the crust, the mantle, and the core.",
+    "surface": "The total surface area of Earth is about 510 million km2 (197 million sq mi). Of this, 70.8%, or 361.13 million km2 (139.43 million sq mi), is below sea level and covered by ocean water. The remaining 29.2%, or 148.94 million km2 (57.51 million sq mi), not covered by water. The elevation of the land surface varies from the low point of −418 m (−1,371 ft) at the Dead Sea, to a maximum altitude of 8,848 m (29,029 ft) at the top of Mount Everest."
+  },
+  {
+    "name": "mars",
+    "data": "Fourth planet from the Sun and the second-smallest planet in the Solar System, being larger than only Mercury. The days and seasons are comparable to those of Earth, because the rotational period as well as the tilt of the rotational axis relative to the ecliptic plane are similar. Mars is the site of Olympus Mons, the largest volcano and highest known mountain on any planet in the Solar System, and of Valles Marineris, one of the largest canyons in the Solar System",
+    "internal": "The core of Mars is overlain by the rocky mantle, which, however, does not seem to have a layer analogous to the Earth's lower mantle. The martial mantle appears to be solid down to the depth of about 500 km, where the low-velocity zone (partially melted asthenosphere) begins. Below the asthenosphere the velocity of seismic waves starts to grow again and at the depth of about 1050 km there lies the boundary of the transition zone. At the surface of Mars there lies a crust with the average thickness of about 24–72 km.",
+    "surface": "Although Mars has no evidence of a structured global magnetic field, observations show that parts of the planet's crust have been magnetized, suggesting that alternating polarity reversals of its dipole field have occurred in the past. This paleomagnetism of magnetically susceptible minerals is similar to the alternating bands found on Earth's ocean floors."
+  },
+  {
+    "name": "jupiter",
+    "data": "Is the fifth planet from the Sun and the largest in the Solar System. Surrounding Jupiter is a faint planetary ring system and a powerful magnetosphere. Jupiter's magnetic tail is nearly 800 million km long, covering the entire distance to Saturn's orbit. Jupiter has 80 known moons and possibly many more, including the four large Galilean moons discovered by Galileo Galilei in 1610. Ganymede, the largest of these, has a diameter greater than that of the planet Mercury.",
+    "internal": "The temperature and pressure inside Jupiter increase steadily inward, this is observed in microwave emission and required because the heat of formation can only escape by convection. At the pressure level of 10 bars (1 MPa), the temperature is around 340 K (67 °C 152 °F). The temperature of Jupiter's diluted core is estimated at around 20,000 K (19,700 °C 35,500 °F) or more with an estimated pressure of around 4,500 GPa.",
+    "surface": "The planet is covered in thick red, brown, yellow and white clouds. The clouds make the planet look like it has stripes. One of Jupiter's most famous features is the Great Red Spot. It is a giant spinning storm, resembling a hurricane"
+  },
+  {
+    "name": "saturn",
+    "data": "Is the sixth planet from the Sun and the second-largest in the Solar System, after Jupiter. It is a gas giant with an average radius of about nine and a half times that of Earth. It only has one-eighth the average density of Earth however, with its larger volume, Saturn is over 95 times more massive.",
+    "internal": "Despite consisting mostly of hydrogen and helium, most of Saturn's mass is not in the gas phase, because hydrogen becomes a non-ideal liquid when the density is above 0.01 g/cm3, which is reached at a radius containing 99.9% of Saturn's mass. The temperature, pressure, and density inside Saturn all rise steadily toward the core, which causes hydrogen to be a metal in the deeper layers.",
+    "surface": "Saturn is a gas giant composed predominantly of hydrogen and helium. It lacks a definite surface, though it may have a solid core. Saturn's rotation causes it to have the shape of an oblate spheroid; that is, it is flattened at the poles and bulges at its equator. Its equatorial and polar radii differ by almost 10%: 60,268 km versus 54,364 km.Jupiter, Uranus, and Neptune, the other giant planets in the Solar System, are also oblate but to a lesser extent."
+  },
+  {
+    "name": "uranus",
+    "data": "It has the third-largest planetary radius and fourth-largest planetary mass in the Solar System. Uranus is similar in composition to Neptune, and both have bulk chemical compositions which differ from that of the larger gas giants Jupiter and Saturn, For this reason, scientists often classify Uranus and Neptune as ice giants to distinguish them from the other giant planets.",
+    "internal": "The bulk compositions of Uranus and Neptune are different from those of Jupiter and Saturn, with ice dominating over gases, hence justifying their separate classification as ice giants. There may be a layer of ionic water where the water molecules break down into a soup of hydrogen and oxygen ions, and deeper down superionic water in which the oxygen crystallises but the hydrogen ions move freely within the oxygen lattice.",
+    "surface": "Uranus is one of two ice giants in the outer solar system (the other is Neptune). Most (80% or more) of the planet's mass is made up of a hot dense fluid of icy materials – water, methane, and ammonia – above a small rocky core."
+  },
+  {
+    "name": "neptune",
+    "data": "Like Jupiter and Saturn, Neptune's atmosphere is composed primarily of hydrogen and helium, along with traces of hydrocarbons and possibly nitrogen, though it contains a higher proportion of ices such as water, ammonia and methane. However, similar to Uranus, its interior is primarily composed of ices and rock Uranus and Neptune are normally considered ice giants to emphasise this distinction.",
+    "internal": "Neptune's internal structure resembles that of Uranus. Its atmosphere forms about 5% to 10% of its mass and extends perhaps 10% to 20% of the way towards the core, where it reaches pressures of about 10 GPa, or about 100,000 times that of Earth's atmosphere. Increasing concentrations of methane, ammonia and water are found in the lower regions of the atmosphere",
+    "surface": "Neptune's mass of 1.0243×1026 kg is intermediate between Earth and the larger gas giants: it is 17 times that of Earth but just 1/19th that of Jupiter. Its gravity at 1 bar is 11.15 m/s2, 1.14 times the surface gravity of Earth, and surpassed only by Jupiter. Neptune's equatorial radius of 24,764 km is nearly four times that of Earth."
+  }
+]
