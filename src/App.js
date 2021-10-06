@@ -11,42 +11,42 @@ const App = () => (
       <Header></Header>
 
       <Switch>
-        <Route path="/mercury">
+        <Route path="/react-planets/mercury">
           <MainBody n="mercury" />
           <Container planet="mercury"></Container>
         </Route>
 
-        <Route path="/venus">
+        <Route path="/react-planets/venus">
           <MainBody n="venus" />
           <Container planet="venus"></Container>
         </Route>
 
-        <Route path="/earth">
+        <Route path="/react-planets/earth">
           <MainBody n="earth" />
           <Container planet="earth"></Container>
         </Route>
 
-        <Route path="/mars">
+        <Route path="/react-planets/mars">
           <MainBody n="mars" />
           <Container planet="mars"></Container>
         </Route>
 
-        <Route path="/jupiter">
+        <Route path="/react-planets/jupiter">
           <MainBody n="jupiter" />
           <Container planet="jupiter"></Container>
         </Route>
 
-        <Route path="/saturn">
+        <Route path="/react-planets/saturn">
           <MainBody n="saturn" />
           <Container planet="saturn"></Container>
         </Route>
 
-        <Route path="/uranus">
+        <Route path="/react-planets/uranus">
           <MainBody n="uranus" />
           <Container planet="uranus"></Container>
         </Route>
 
-        <Route path="/neptune">
+        <Route path="/react-planets/neptune">
           <MainBody n="neptune" />
           <Container planet="neptune"></Container>
         </Route>
