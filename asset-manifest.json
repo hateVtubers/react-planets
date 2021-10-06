@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/react-planets/static/css/main.135d3a43.chunk.css",
+    "main.js": "/react-planets/static/js/main.9dd54b28.chunk.js",
+    "main.js.map": "/react-planets/static/js/main.9dd54b28.chunk.js.map",
+    "runtime-main.js": "/react-planets/static/js/runtime-main.e8068b4b.js",
+    "runtime-main.js.map": "/react-planets/static/js/runtime-main.e8068b4b.js.map",
+    "static/js/2.2c6f7552.chunk.js": "/react-planets/static/js/2.2c6f7552.chunk.js",
+    "static/js/2.2c6f7552.chunk.js.map": "/react-planets/static/js/2.2c6f7552.chunk.js.map",
+    "static/js/3.320fa5d7.chunk.js": "/react-planets/static/js/3.320fa5d7.chunk.js",
+    "static/js/3.320fa5d7.chunk.js.map": "/react-planets/static/js/3.320fa5d7.chunk.js.map",
+    "index.html": "/react-planets/index.html",
+    "static/css/main.135d3a43.chunk.css.map": "/react-planets/static/css/main.135d3a43.chunk.css.map",
+    "static/js/2.2c6f7552.chunk.js.LICENSE.txt": "/react-planets/static/js/2.2c6f7552.chunk.js.LICENSE.txt",
+    "static/media/earth.8132bf4f.svg": "/react-planets/static/media/earth.8132bf4f.svg",
+    "static/media/jupiter.7ac4996b.svg": "/react-planets/static/media/jupiter.7ac4996b.svg",
+    "static/media/mars.1e5aa649.svg": "/react-planets/static/media/mars.1e5aa649.svg",
+    "static/media/mercury.e5660616.svg": "/react-planets/static/media/mercury.e5660616.svg",
+    "static/media/neptune.866047c0.svg": "/react-planets/static/media/neptune.866047c0.svg",
+    "static/media/saturn.0a661e2a.svg": "/react-planets/static/media/saturn.0a661e2a.svg",
+    "static/media/uranus.61f1b8cd.svg": "/react-planets/static/media/uranus.61f1b8cd.svg",
+    "static/media/venus.877c2695.svg": "/react-planets/static/media/venus.877c2695.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e8068b4b.js",
+    "static/js/2.2c6f7552.chunk.js",
+    "static/css/main.135d3a43.chunk.css",
+    "static/js/main.9dd54b28.chunk.js"
+  ]
+}
